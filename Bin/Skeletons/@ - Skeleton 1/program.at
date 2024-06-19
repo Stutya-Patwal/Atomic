@@ -1,0 +1,2 @@
+a = get("What is your name: ")
+display("hey &&a")

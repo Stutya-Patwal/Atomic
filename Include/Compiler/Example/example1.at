@@ -1,0 +1,14 @@
+while True{
+    user_input = inquire.text("Select a number: ")
+    number = random.randint(200,500)
+    if user_input == number{
+        display("Yes, YOU WON")
+    }
+    Or user_input > number{
+        display("No, the number is smaller")
+    }
+    None{
+        display("No, the number is greater")
+    }
+}
+:1 import random

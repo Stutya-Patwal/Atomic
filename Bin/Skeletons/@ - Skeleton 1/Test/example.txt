@@ -1,0 +1,4 @@
+show("Hi")
+show("hello")
+defa = "hello"
+:1 func abc():show("hello"),show(a)

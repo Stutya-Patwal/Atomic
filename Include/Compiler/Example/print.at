@@ -1,0 +1,37 @@
+// comment //
+
+variablex = 5
+variabley = 7
+:2 question1 = inquire.text("Hi what is your name: ")
+
+:1 display("This file contains everything of @")
+out("Nice to meet you", question1)
+
+if variablex > variabley || variablex == variabley{
+    display("variablex is greater or equal to variabley")
+}
+Or variablex < variabley && "Bob" in question1{
+    out("variablex is smaller then variabley and your name is Bob")
+}
+Or !! question1 == "idk"{
+    out("Fortuantely bro knows his name")
+}
+None{
+    out("I dont know, this is else condition btw")
+}
+
+func myfunction(you){
+    display(you)
+}
+
+myfunction("idk")
+
+if MAYBE{ //maybe randomly returns true or false //
+    display("maybe")
+}
+
+x = 5
+while !! x == 0{
+    x = x - 5
+    display(x)
+}

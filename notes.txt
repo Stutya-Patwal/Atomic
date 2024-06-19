@@ -1,0 +1,38 @@
+31 May 2024
+- compiler-backend: the display, variable and comment has been setup
+- compiler-backend: everything seems working
+- filemanagment: verification and file open has been done, verification gives FALSE if .at file is send
+- runner: file managment and compiler are installed
+
+1 June 2024:
+- runner-testing: the compiler accepts and even executes python code 
+- multiple choice questions were introduced 
+- mcq are removed
+- text input function added
+
+5 June 2024:
+- valnum were added 
+- valnum are functioning well
+- >> as print was introduced 
+- >> as print was removed
+- out as print function was introduced
+
+6 June 2024:
+- If, Or and None were introduced (if, elif, else)
+- &&,|| and !! were introduced (and, or, not)
+- functions were added (func <function-name>(){})
+- MAYBE boolean was introduced
+- while loop was introduced
+
+
+notes:
+Probabilistic Programming: Build upon the MAYBE keyword and introduce more probabilistic constructs, such as CHANCE (e.g., CHANCE(0.5) { code }), RANDOM_WALK, or STOCHASTIC_LOOP. This could enable developers to write code that incorporates uncertainty and randomness in a more explicit way.
+Context-Aware Programming: Introduce a CONTEXT keyword that allows developers to define context-dependent behavior. For example, CONTEXT(mobile) { code } could execute different code on mobile devices versus desktop devices.
+Emotional Intelligence: Incorporate emotional intelligence into your language by introducing keywords like EMOTION (e.g., EMOTION(angry) { code }) or MOOD. This could enable developers to write code that responds to user emotions or adapts to different emotional states.
+Natural Language Processing (NLP) Integration: Allow developers to write code that seamlessly integrates with NLP models and libraries. This could include keywords like UNDERSTAND (e.g., UNDERSTAND("What is your name?") { code }) or RESPOND.
+Visual Programming: Introduce a visual programming paradigm that allows developers to create programs using diagrams, flowcharts, or other visual representations. This could be achieved through a graphical user interface or a domain-specific language (DSL) for visual programming.
+Time-Travel Debugging: Implement a TIME_TRAVEL keyword that allows developers to debug their code by "traveling back in time" to a previous point in the program's execution. This could be useful for identifying and fixing errors.
+Collaborative Programming: Introduce features that enable real-time collaborative coding, such as a CO_AUTHOR keyword that allows multiple developers to work on the same code simultaneously.
+** Gamification**: Incorporate game-like elements into your language, such as rewards, badges, or leaderboards, to make programming more engaging and fun.
+AI-Assisted Coding: Introduce an AI_ASSIST keyword that allows developers to request AI-generated code suggestions or completions. This could be integrated with machine learning models that learn from the developer's coding style and preferences.
+Environmental Awareness: Incorporate features that promote sustainable coding practices, such as a CARBON_FOOTPRINT keyword that estimates the environmental impact of a program's execution.

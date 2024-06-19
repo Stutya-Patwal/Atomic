@@ -1,0 +1,13 @@
+- the compiler converts @ code to python code
+- #1 checks if the file given is @
+  #2 clears all comments from the file
+  #3 normalizes the program or sets the program according to the SOE
+  #4 sends the program to compile function to get it converted to python code
+  #5 the program writes it to program.py file 
+- the piece of code without a SOE is executed after the piece of code with a SOE
+- a line of code must have an keyword
+- if two peice of code have the same SOE then the one which appears first would executed first
+
+
+- problem in normalize function
+- 7 days 
